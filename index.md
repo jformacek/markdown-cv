@@ -1,23 +1,23 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jiri Formacek - CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jiri Formacek
+Architect and developer (mainly) in Microsoft landscape
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jiri.formacek@gotmail.com">jiri.formacek@hotmail.com</a>
+| <a href="https://jformacek.github.io">jformacek.github.io</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Leading consulting and development company [GreyCorbel Solutions](https://www.greycorbel.com)
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Large projects architecture design and delivery. Specialized code development, complex integrations.
 
 
 ### Research interests
